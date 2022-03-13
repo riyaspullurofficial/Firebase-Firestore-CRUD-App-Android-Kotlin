@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firestore crud App</string>
+    <string name="first_name">First Name</string>
+    <string name="save_data">Save Data</string>
+    <string name="retrieve_data">show Data from-To</string>
+    <string name="datas_are_in_firebase">Datas are in firebase...</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="start">start</string>
+    <string name="end">End</string>
+    <string name="new_first_name">New First name</string>
+    <string name="new_last_name">New Last name</string>
+    <string name="new_last_age">New Last age</string>
+    <string name="update_data">Update data</string>
+    <string name="delete_person">Delete Person</string>
+</resources>
